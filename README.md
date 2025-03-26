@@ -1,7 +1,7 @@
 ### Hi, I'm Zsolt!
 
   🎓 Studying Computer Science at the University of Szeged<br/>
-  📘 I’m passionate about exploring new technologies and expanding my knowledge
+  📘 Passionate about exploring new technologies and expanding my knowledge
 
 <!--
 **zsoltbatai77/zsoltbatai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
