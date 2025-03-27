@@ -1,7 +1,7 @@
 ## Hi, I'm Zsolt!
 
  ## About Me:
-🎓 Studying Computer Science at the University of Szeged<br/><br>  📘 Passionate about exploring new technologies and expanding my knowledge
+🎓 Studying Computer Science at the University of Szeged<br/>📘 Passionate about exploring new technologies and expanding my knowledge
 
 
 ## Tech Stack:
